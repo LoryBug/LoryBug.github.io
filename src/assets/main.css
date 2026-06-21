@@ -107,7 +107,7 @@ main {
   grid-template-columns: minmax(0, 1fr) 330px;
   gap: 48px;
   align-items: end;
-  padding-top: 92px;
+  padding-top: 72px;
 }
 
 .hero-copy {
@@ -141,7 +141,7 @@ h2 {
 
 h1 {
   max-width: 920px;
-  font-size: clamp(3.2rem, 9vw, 7.8rem);
+  font-size: clamp(3.1rem, 6.4vw, 5.8rem);
 }
 
 h2 {
